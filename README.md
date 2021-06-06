@@ -1,5 +1,5 @@
 # python_task1
-In this task we have to convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text.
+In this task I have convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text.
 ## Following task can be perform through this program:
 * can mail to anyone just we need to set default id and password through which we want to send mail.
 * can open and search our query
